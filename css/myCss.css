@@ -1,0 +1,13 @@
+#question {
+    margin-left: 20px;
+    margin-bottom: 30px;
+    width: 300px;
+}
+
+.none {
+    display: none;
+}
+
+.block {
+    display: block;
+}
